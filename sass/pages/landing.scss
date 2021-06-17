@@ -1,0 +1,16 @@
+.landing {
+   &__background {
+      height: 100vh;
+      width: 100vw;
+      background-color: $color-dark-bg;
+   }
+   &__greentemple {
+      position: absolute;
+      right: 40px;
+      top: 40px;
+      color: $color-blue;
+      font-family: 'alien_encounters_soliditalic';
+      font-size: 62px;
+      letter-spacing: 4px;
+   }
+}
